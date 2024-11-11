@@ -1,0 +1,166 @@
+cols,missing_values
+Project,0
+External ID,0
+Participant ID,0
+site_sub_coll,0
+data_type,0
+week_num,0
+date_of_receipt,0
+interval_days,0
+visit_num,0
+Research Project,0
+PDO Number,21
+GSSR IDs,1510
+Product,1316
+LCSET,1316
+Aggregated Lanes,1316
+WR ID,1510
+# Lanes in Aggregation,1316
+reads_raw,0
+reads_filtered,0
+reads_qc_fail,0
+reads_human,0
+IntervalName,0
+IntervalSequence,0
+ProjectSpecificID,0
+site_name,0
+Age at diagnosis,440
+Education Level,37
+Occupation,1
+Whole blood received at Broad:,0
+Serum tube #1 received at CSMC:,0
+Serum tubes #2-4 received at MGH:,0
+FLora received at MGH:,0
+RNA/DNA received at Broad:,0
+ECP received at Washington U:,0
+consent_age,19
+diagnosis,0
+"Soft drinks, tea or coffee with sugar (corn syrup, maple syrup, cane sugar, etc)",32
+"Diet soft drinks, tea or coffee with sugar (Stevia, Equal, Splenda etc)",29
+"Fruit juice (orange, apple, cranberry, prune etc.)",27
+Water,26
+"Alcohol (beer, brandy, spirits, hard liquor, wine, aperitif, etc.)",27
+"Yogurt or other foods containing active bacterial cultures (kefir, sauerkraut)",30
+"Dairy (milk, cream, ice cream, cheese, cream cheese)",29
+Probiotic,31
+"Fruits (no juice) (Apples, raisins, bananas, oranges, strawberries, blueberries",34
+"Vegetables (salad, tomatoes, onions, greens, carrots, peppers, green beans, etc)",31
+"1) In the past 2 weeks, have you received any of the following medications",66
+"Beans (tofu, soy, soy burgers, lentils, Mexican beans, lima beans etc)",35
+"Whole grains (wheat, oats, brown rice, rye, quinoa, wheat bread, wheat pasta)",28
+"Starch (white rice, bread, pizza, potatoes, yams, cereals, pancakes, etc.)",32
+Eggs,38
+"Processed meat (other red or white meat such as lunch meat, ham, salami, bologna",30
+"Red meat (beef, hamburger, pork, lamb)",28
+"White meat (chicken, turkey, etc.)",34
+"Shellfish (shrimp, lobster, scallops, etc.)",30
+"Fish (fish nuggets, breaded fish, fish cakes, salmon, tuna, etc.)",31
+"Sweets (pies, jam, chocolate, cake, cookies, etc.)",29
+Antibiotics,0
+Chemotherapy,0
+Immunosuppressants (e.g. oral corticosteroids),0
+"2) In the past 2 weeks, have you undergone a colonoscopy or other procedure",58
+"3) In the past 2 weeks, have you used an oral contrast",60
+"4) In the past 2 weeks, have you had diarrhea?",57
+"5) In the past 2 weeks, have you been hospitalized?",60
+6) Have you ever had bowel surgery?,63
+Tea or coffee no sugar and no sugar replacement,31
+fecalcal_ng_ml,1572
+Uveitis,0
+Erythema nodosum,0
+Aphthous ulcers,0
+Pyoderma gangrenosum,0
+Anal fissure,0
+New fistula,0
+Abscess,0
+Was HBI completed?,897
+General wellbeing,919
+Abdominal pain,1259
+Number of liquid or very soft stools in the past 24 hours:,929
+Arthralgia,0
+hbi,945
+Hispanic or Latino Origin,1
+Cancer - breast,0
+Cancer - cholangiocarcinoma,0
+Cancer - colon or rectum,0
+Cancer - Hodgkin's lymphoma,0
+Cancer - liver,0
+Cancer - lung,0
+Cancer - lymphoma (not otherwise specified),0
+Cancer - Non-Hodkin's lymphoma,0
+Cancer - ovarian,0
+Cancer - prostate,0
+Celiac sprue,0
+Chronic bronchitis,0
+Dermatitis herpetiformis,0
+Familial Mediterranean fever,0
+Grave's disease,0
+Guillian-Barre Syndrome,0
+Hashimoto's (autoimmune) thyroiditis,0
+Idiopathic pulmonary fibrosis,0
+Idiopathic thrombocytopenia purpura,0
+Irritable bowel syndrome,0
+Alopecia areata,0
+Multiple sclerosis,0
+Myasthenia gravis,0
+Myocarditis,0
+Neuropathy,0
+Pericarditis,0
+Pemphigus vulgaris,0
+Pernicious anemia,0
+Polymyositis or dermatomyositis,0
+Primary biliary cirrhosis,0
+Primary sclerosing cholangitis,0
+Ankylosing spondylitis,0
+Psoriasis,0
+Rheumatoid arthritis,0
+Sarcoidosis,0
+Scleroderma (systemic sclerosis),0
+Sjogren's syndrome,0
+Systemic lupus erythematosis,0
+Temporal arteritis,0
+"Thyroid disease (uncertain diagnosis, not cancer)",0
+Type I Diabetes (Juvenile Diabetes),0
+Vitiligo,0
+Arthritis (uncertain diagnosis),0
+Wegener's granulomatosis,0
+Asthma,0
+Autoimmune hemolytic anemia,0
+Autoimmune hepatitis,0
+Bechet's syndrome,0
+Did the patient sign informed consent?,0
+Did the subject withdraw from the study?,0
+Was subject terminated by investigator?,0
+Reason for withdrawal or termination:,1565
+Partial Endoscopy,0
+baseline_montreal_location,984
+"If other, explain:",1628
+race,0
+Arthralgias,0
+Pyoderma gangrenosum.1,0
+Erythema nodosum.1,0
+Uveitis.1,0
+Was SCCAI completed?,1163
+Bowel frequency during the day,1185
+Bowel frequency during the night,1552
+Urgency of defecation,1382
+Blood in the stool,1437
+General well being over the past 24 hours,1186
+sccai,1186
+Partial Endoscopy.1,0
+sex,0
+Specify race,1537
+Was stool sample collected?,0
+Tube A: DNA/RNA,1257
+Tube A: Metabolomics,663
+Tube A: Storage,1300
+Tube A:Viromics,1257
+Tube B:Fecal Calprotectin,1028
+fecalcal,1182
+Tube B:Proteomics,154
+Viromics received at Baylor:,0
+FecalCal received at MGH:,0
+Proteomics received at LBNL:,0
+Stool Sample ID:  Tube A  (EtOH),6
+Sample ID: Tube B (No preservative),7
+Tube A and B received at Broad:,0
