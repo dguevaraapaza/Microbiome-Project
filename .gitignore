@@ -1,2 +1,4 @@
 .conda/
 data/
+fastq_files/
+output/
