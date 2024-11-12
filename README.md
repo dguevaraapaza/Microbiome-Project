@@ -1,3 +1,5 @@
-# Micobiome-Project
+# Microbiome-Project
+
 ----
-Draft for handling the Inflammatory Bowel Disease Multi'omics Database.
+
+Draft for handling the Inflammatory Bowel Disease Multiomics Database.

@@ -2,3 +2,5 @@
 data/
 fastq_files/
 output/
+dada/
+tree/
