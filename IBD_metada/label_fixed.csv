@@ -1,0 +1,491 @@
+old_names,new_names
+Project,project
+External ID,external_id
+Participant ID,participant_id
+site_sub_coll,site_sub_coll
+data_type,data_type
+week_num,week_num
+date_of_receipt,date_of_receipt
+interval_days,interval_days
+visit_num,visit_num
+Research Project,research_project
+PDO Number,pdo_number
+GSSR IDs,gssr_ids
+Product,product
+LCSET,lcset
+Aggregated Lanes,aggregated_lanes
+WR ID,wr_id
+# Lanes in Aggregation,lanes_in_aggregation
+reads_raw,reads_raw
+reads_filtered,reads_filtered
+reads_qc_fail,reads_qc_fail
+reads_human,reads_human
+reads_ribosomal,reads_ribosomal
+reads_viral,reads_viral
+Delta,delta
+IntervalName,intervalname
+IntervalSequence,intervalsequence
+ProjectSpecificID,projectspecificid
+site_name,site_name
+Age at diagnosis,age_at_diagnosis
+Has the subject had a cholecystectomy?,cholecystectomy
+Has the subject had a prior abdominal surgery (other)?,abdominal_surgery
+Has the next visit been scheduled?,visit_scheduled
+Has the subject been given new stool kits?,stool_kits
+Has the subject completed the FFQ/YAQ?,ffq_yaq_completed
+Education Level,education_level
+Occupation,occupation
+Scanned FFQ/YAQ document:,scanned_ffq_yaq
+FFQ/YAQ results:,ffq_yaq_results
+Has the subject had an appendectomy?,appendectomy
+Has the subject had a tonsillectomy?,tonsillectomy
+biopsy_location,biopsy_location
+Were study bloods drawn?,study_bloods
+Whole blood received at Broad:,whole_blood_broad
+Serum tube #1 received at CSMC:,serum_tube_1_csmc
+Serum tubes #2-4 received at MGH:,serum_tubes_2_4_mgh
+Whole Blood (DNA),whole_blood_dna
+Serum #1,serum_1
+Serum #2,serum_2
+Serum #3,serum_3
+Serum #4,serum_4
+Number of flora tubes collected:,flora_tubes_collected
+Rectum Flora:,rectum_flora
+Ileum flora:,ileum_flora
+Other inflamed flora:,inflamed_flora
+Non-inflamed flora:,non_inflamed_flora
+Have samples been sent for histopathology?,histopathology_samples
+Number of tubes collected for epithelial cell biopsies:,epithelial_cell_biopsies
+Rectum cell biopsy:,rectum_biopsy
+Ileum cell biopsy:,ileum_biopsy
+Other inflamed cell biopsy:,inflamed_cell_biopsy
+Other non-inflamed cell biopsy:,non_inflamed_cell_biopsy
+FLora received at MGH:,flora_mgh
+RNA/DNA received at Broad:,rna_dna_broad
+ECP received at Washington U:,ecp_washington_u
+Number of DNA/RNA tubes collected:,dna_rna_tubes_collected
+Rectum DNA/RNA:,rectum_dna_rna
+Ileum DNA/RNA:,ileum_dna_rna
+Other Inflamed DNA/RNA:,inflamed_dna_rna
+Non-inflamed DNA/RNA:,non_inflamed_dna_rna
+consent_age,consent_age
+diagnosis,diagnosis
+"Soft drinks, tea or coffee with sugar (corn syrup, maple syrup, cane sugar, etc)",soft_drinks
+"Diet soft drinks, tea or coffee with sugar (Stevia, Equal, Splenda etc)",diet_soft_drinks
+"Fruit juice (orange, apple, cranberry, prune etc.)",fruit_juice
+Water,water
+"Alcohol (beer, brandy, spirits, hard liquor, wine, aperitif, etc.)",alcohol
+"Yogurt or other foods containing active bacterial cultures (kefir, sauerkraut)",yogurt_bacterial_cultures
+"Dairy (milk, cream, ice cream, cheese, cream cheese)",dairy
+Probiotic,probiotic
+"Fruits (no juice) (Apples, raisins, bananas, oranges, strawberries, blueberries",fruits_no_juice
+"Vegetables (salad, tomatoes, onions, greens, carrots, peppers, green beans, etc)",vegetables
+"1) In the past 2 weeks, have you received any of the following medications",medications_received
+"Beans (tofu, soy, soy burgers, lentils, Mexican beans, lima beans etc)",beans
+"Whole grains (wheat, oats, brown rice, rye, quinoa, wheat bread, wheat pasta)",whole_grains
+"Starch (white rice, bread, pizza, potatoes, yams, cereals, pancakes, etc.)",starch
+Eggs,eggs
+"Processed meat (other red or white meat such as lunch meat, ham, salami, bologna",processed_meat
+"Red meat (beef, hamburger, pork, lamb)",red_meat
+"White meat (chicken, turkey, etc.)",white_meat
+"Shellfish (shrimp, lobster, scallops, etc.)",shellfish
+"Fish (fish nuggets, breaded fish, fish cakes, salmon, tuna, etc.)",fish
+"Sweets (pies, jam, chocolate, cake, cookies, etc.)",sweets
+Antibiotics,antibiotics
+Chemotherapy,chemotherapy
+Immunosuppressants (e.g. oral corticosteroids),immunosuppressants
+"2) In the past 2 weeks, have you undergone a colonoscopy or other procedure",colonoscopy_procedure
+"3) In the past 2 weeks, have you used an oral contrast",oral_contrast
+"4) In the past 2 weeks, have you had diarrhea?",diarrhea
+"5) In the past 2 weeks, have you been hospitalized?",hospitalization
+6) Have you ever had bowel surgery?,bowel_surgery
+Tea or coffee no sugar and no sugar replacement,tea_coffee
+Did you grow up on a farm?,grew_up_farm
+Did you attend daycare as a child?,attended_daycare
+Were you exposed to cigarette smoke as a child?,exposed_cigarette_child
+Were you born prematurely (more than 3 weeks early)?,born_prematurely
+Do you currently smoke marijuana?,smoke_marijuana
+"If yes, how many times per month do you smoke marijuana on average?",marijuana_frequency
+"In the past 2 months, have you used any acid reducing medication",acid_reducing_medication
+"If yes, how frequently do you take them?",acid_medication_frequency
+"In the past 2 months, have you used any medications modifying bile production",bile_production_medications
+Do you use non-steroidal anti-inflammatory medications,anti_inflammatory_medications
+Were you born in a hospital?,born_hospital
+"If yes, how frequently do you take them?.1",contraception_frequency
+"If you are female, do you use hormonal contraception?",contraception
+"If yes, what type of contraception?",contraception_type
+Please list your current hormonal contraceptive:,current_contraceptive
+"If yes, for how many months have you been taking hormonal contraception?",contraception_months
+Have you changed your hormonal contraceptive regimen in the past two months?,hormonal_regimen_change
+"In the past 6 months, have you used antibiotics?",used_antibiotics
+"In the past 3 months, have you consumed any probiotics (other than yogurt)",consumed_probiotics
+"In the past 3 months, how often have you consumed yogurt or other foods containi",consumed_yogurt
+Were you born via C-section?,born_c_section
+What are your dietary preferences with respect to meat?,dietary_preferences_meat
+How often do you consume alcoholic beverages?,alcohol_consumption
+"In the past 7 days, my sleep quality was...",sleep_quality
+"In the past 7 days, my sleep was refreshing...",sleep_refreshing
+I had a problem with my sleep...,sleep_problem
+I had difficulty falling asleep...,difficulty_falling_asleep
+My sleep was restless...,restless_sleep
+I tried hard to get to sleep...,sleep_effort
+I worried about not being able to fall asleep...,sleep_worry
+I was satisfied with my sleep...,sleep_satisfaction
+Were you born in the United States?,born_us
+"In the past 7 days, I felt worthless...",felt_worthless
+I felt helpless...,felt_helpless
+I felt depressed...,felt_depressed
+I felt hopeless...,felt_hopeless
+I felt like a failure...,felt_failure
+I felt unhappy...,felt_unhappy
+I felt that I had nothing to look forward to...,nothing_to_look_forward
+I felt that nothing could cheer me up...,nothing_cheer_me_up
+"In the past 7 days, I felt fearful...",felt_fearful
+I found it hard to focus on anything other than my anxiety...,hard_focus_anxiety
+"If no, where were you born?",birthplace
+"If no, in what year did you come to the United States?",year_immigrated
+Were you breastfed as an infant?,breastfed
+My worries overwhelmed me...,worries_overwhelmed
+I felt uneasy...,felt_uneasy
+I felt nervous...,felt_nervous
+I felt like I needed help for my anxiety...,needed_anxiety_help
+I felt anxious...,felt_anxious
+I felt tense...,felt_tense
+"When was the last time you saw a dentist (generalist, prosthodontist, periodonti",last_dentist_visit
+When was the last time you had a dental cleaning? Choose the most recent option.,last_dental_cleaning
+Manual toothbrush,manual_toothbrush
+Electric toothbrush,electric_toothbrush
+Alcohol-based mouthwash,alcohol_mouthwash
+Non alcoholic mouthwash,non_alcohol_mouthwash
+Floss,floss
+Water-based pick/jet,water_pick
+Tongue cleaner,tongue_cleaner
+Tooth-whiteners,tooth_whiteners
+Were you treated with antibiotics before the age of one?,antibiotics_before_1
+Were you hospitalized before the age of five?,hospitalized_before_5
+Did you have pets growing up?,had_pets
+"Subject is unwilling or unable to provide biopsy, blood, and stool samples:",unable_provide_samples
+"Subject has an immune mediated disease (i.e. rheumatoid arthritis, lupus, T1DM):",immune_disease
+Subject is pregnant:,pregnant
+Subject has a known bleeding disorder:,bleeding_disorder
+Subject has an acute gastrointestinal infection:,acute_gi_infection
+Subject is actively being treated for a malignancy with chemotherapy:,treated_malignancy
+Subject has been diagnosed with indeterminate colitis:,diagnosed_colitis
+Subject has a stoma or pouch:,stoma_pouch
+Subject has an acute gastrointestinal illness:,acute_gi_illness
+Subject has an acute gastrointestinal infection or IBD:,gi_infection_ibd
+Behavior (B),behavior
+"For UC and CD, has the disease classification changed since baseline?",disease_classification_changed
+Extent (E),extent
+"For months 3, 6, and 9 ONLY: Has the subject been given 6 new stool collection k",new_stool_collection
+Location (L) prior to first surgery,location_before_surgery
+Has the subject experienced a flare since the last study visit?,flare_experience
+"If yes, how many times?",flare_count
+Weight,weight
+Has the subject had a colonoscopy since the last visit?,colonoscopy_since_last_visit
+Has the subject been hospitalized for any reason since the last study visit?,hospitalized_since_last_visit
+Has the subject had any accute diarrheal illnesses since the last study visit?,acute_diarrhea_since_last_visit
+Has the subject used any antibiotics since the last visit?,used_antibiotics_since_last_visit
+fecalcal_ng_ml,fecalcal_ng_ml
+Parents,parents
+Mother,mother
+Father,father
+Siblings,siblings
+Male sibling 1,male_sibling_1
+Male sibling 2,male_sibling_2
+Male sibling 3,male_sibling_3
+Female sibling 1,female_sibling_1
+Female sibling 2,female_sibling_2
+Female sibling 3,female_sibling_3
+Children,children
+Male child 1,male_child_1
+Male child 2,male_child_2
+Male child 3,male_child_3
+Female child 1,female_child_1
+Female child 2,female_child_2
+Female child 3,female_child_3
+Grandparents,grandparents
+Male grandparent 1,male_grandparent_1
+Male grandparent 2,male_grandparent_2
+Female grandparent 1,female_grandparent_1
+Female grandparent 2,female_grandparent_2
+Distant Relative,distant_relative
+Male distant relative 1,male_distant_relative_1
+Male distant relative 2,male_distant_relative_2
+Male distant relative 3,male_distant_relative_3
+Female distant relative 1,female_distant_relative_1
+Female distant relative 2,female_distant_relative_2
+Female distant relative 3,female_distant_relative_3
+Uveitis,uveitis
+Erythema nodosum,erythema_nodosum
+Aphthous ulcers,aphthous_ulcers
+Pyoderma gangrenosum,pyoderma_gangrenosum
+Anal fissure,anal_fissure
+New fistula,new_fistula
+Abscess,abscess
+Was HBI completed?,hbi_completed
+General wellbeing,general_wellbeing
+Abdominal pain,abdominal_pain
+Number of liquid or very soft stools in the past 24 hours:,liquid_stools
+Abdominal mass,abdominal_mass
+Arthralgia,arthralgia
+hbi,hbi
+Hispanic or Latino Origin,hispanic_latino_origin
+BMI,bmi
+Height,height
+Weight.1,weight
+Cancer - breast,cancer_breast
+Cancer - cholangiocarcinoma,cancer_cholangiocarcinoma
+Cancer - colon or rectum,cancer_colon_rectum
+Cancer - Hodgkin's lymphoma,cancer_hodgkins_lymphoma
+Cancer - liver,cancer_liver
+Cancer - lung,cancer_lung
+Cancer - lymphoma (not otherwise specified),cancer_lymphoma
+Cancer - Non-Hodkin's lymphoma,cancer_non_hodgkins_lymphoma
+Cancer - ovarian,cancer_ovarian
+Cancer - prostate,cancer_prostate
+Other immune mediated diseases,immune_diseases
+Celiac sprue,celiac_sprue
+Chronic bronchitis,chronic_bronchitis
+Dermatitis herpetiformis,dermatitis_herpetiformis
+Familial Mediterranean fever,familial_mediterranean_fever
+Grave's disease,graves_disease
+Guillian-Barre Syndrome,guillian_barre_syndrome
+Hashimoto's (autoimmune) thyroiditis,hashimotos_thyroiditis
+Idiopathic pulmonary fibrosis,pulmonary_fibrosis
+Idiopathic thrombocytopenia purpura,thrombocytopenia
+Irritable bowel syndrome,irritable_bowel_syndrome
+Alopecia areata,alopecia_areata
+Multiple sclerosis,multiple_sclerosis
+Myasthenia gravis,myasthenia_gravis
+Myocarditis,myocarditis
+Neuropathy,neuropathy
+Pericarditis,pericarditis
+Pemphigus vulgaris,pemphigus_vulgaris
+Pernicious anemia,pernicious_anemia
+Polymyositis or dermatomyositis,polymyositis_dermatomyositis
+Primary biliary cirrhosis,primary_biliary_cirrhosis
+Primary sclerosing cholangitis,primary_sclerosing_cholangitis
+Ankylosing spondylitis,ankylosing_spondylitis
+Psoriasis,psoriasis
+Rheumatoid arthritis,rheumatoid_arthritis
+Sarcoidosis,sarcoidosis
+Scleroderma (systemic sclerosis),scleroderma
+Sjogren's syndrome,sjogrens_syndrome
+Systemic lupus erythematosis,lupus
+Temporal arteritis,temporal_arteritis
+"Thyroid disease (uncertain diagnosis, not cancer)",thyroid_disease
+Type I Diabetes (Juvenile Diabetes),type_I_diabetes
+Vitiligo,vitiligo
+Arthritis (uncertain diagnosis),arthritis_uncertain
+Wegener's granulomatosis,wegeners_granulomatosis
+Asthma,asthma
+Autoimmune hemolytic anemia,autoimmune_hemolytic_anemia
+Autoimmune hepatitis,autoimmune_hepatitis
+Bechet's syndrome,bechets_syndrome
+Did the patient sign informed consent?,informed_consent_signed
+Did the subject withdraw from the study?,study_withdrawal
+Was subject terminated by investigator?,investigator_termination
+Reason for withdrawal or termination:,withdrawal_reason
+Subject is 18 years of age or older:,subject_18_plus
+Subject is 17 years of age or younger:,subject_17_under
+Subject has a confirmed diagnosis of IBD:,confirmed_IBD_diagnosis
+Subject was diagnosed within the last 6 months:,recent_diagnosis
+Subject is NOT on an anti-TNF inhibitor:,not_anti_TNF_inhibitor
+Subject has had IBD for 5 years or more:,IBD_5_years_plus
+is_inflamed,is_inflamed
+Have the following labs been drawn within +/- 2 weeks?,labs_within_2_weeks
+CRP (mg/L),CRP
+ESR (mm/hr),ESR
+Location,location
+What is the endoscopic grading of severity?,endoscopic_severity
+Location.1,location_1
+What is the endoscopic grading of severity?.1,endoscopic_severity_1
+Modified Baron's Score,modified_baron_score
+Partial Endoscopy,partial_endoscopy
+Was the Modified Baron's Score completed?,baron_score_completed
+Location.2,location_2
+What is the endoscopic grading of severity?.2,endoscopic_severity_2
+Location.3,location_3
+What is the endoscopic grading of severity?.3,endoscopic_severity_3
+Location.4,location_4
+What is the endoscopic grading of severity?.4,endoscopic_severity_4
+Has classification been verified by a physician?,physician_verified_classification
+Age at diagnosis (A),age_at_diagnosis
+baseline_montreal_location,baseline_montreal_location
+Behavior (B).1,behavior_B
+Extent (E).1,extent_E
+Lomotil,lomotil
+Dipentum (olsalazine),dipentum
+Reason for stopping Dipentum:,dipentum_stopping_reason
+Rowasa enemas (mesalamine enemas),rowasa_enemas
+Reason for stopping rowasa enemas:,rowasa_stopping_reason
+Canasa suppositories (mesalamine suppositories),canasa_suppositories
+Reason for stopping canasa suppositories:,canasa_stopping_reason
+Flagyl (Metronidazole),flagyl
+Reason for stopping Flagyl:,flagyl_stopping_reason
+Cipro (Ciprofloxin),cipro
+Reason for stopping Cipro:,cipro_stopping_reason
+Xifaxin (rifaxamin),xifaxin
+Reason for stopping Xifaxin:,xifaxin_stopping_reason
+Levaquin,levaquin
+Reason for stopping Levaquin:,levaquin_stopping_reason
+Other Antibiotic:,other_antibiotic
+Reason for stopping other antibiotic:,other_antibiotic_stopping_reason
+Prednisone,prednisone
+Reason for stopping Prednisone:,prednisone_stopping_reason
+Highest dose of Prednisone taken (mg):,prednisone_highest_dose
+Entocort (Budesonide),entocort
+Reason for stopping Entocort:,entocort_stopping_reason
+Highest dose of Entocort taken (mg):,entocort_highest_dose
+Reason for stopping lomotil:,lomotil_stopping_reason
+Imodium,imodium
+Solumedrol (Medrol),solumedrol
+Reason for stopping Solumedrol:,solumedrol_stopping_reason
+IV steroids,IV_steroids
+Reason for stopping IV steroids:,IV_steroids_stopping_reason
+"Cortenemas, Cortifoam, Proctofoam",cortenemas_cortifoam_proctofoam
+Reason for stopping enemas or foam:,enemas_stopping_reason
+"Azathioprine (Imuran, Azasan)",azathioprine
+Reason for stopping Azathioprine:,azathioprine_stopping_reason
+Methotrexate,methotrexate
+Reason for stopping Methotrexate:,methotrexate_stopping_reason
+"Mercaptopurine (Purinethol, 6MP)",mercaptopurine
+Reason for stopping Mercaptopurine:,mercaptopurine_stopping_reason
+VSL #3,VSL
+Reason for stopping VSL #3:,VSL_stopping_reason
+FOS,FOS
+Reason for stopping FOS:,FOS_stopping_reason
+Remicade (Infliximab),remicade
+Reason for stopping Remicade:,remicade_stopping_reason
+Duration of Remicade use (months):,remicade_duration
+Humira (Adalimumab),humira
+Reason for stopping Humira:,humira_stopping_reason
+Duration of Humira use (months):,humira_duration
+Reason for stopping Imodium:,imodium_stopping_reason
+DTO,DTO
+Cimzia (Certlizumab),cimzia
+Reason for stopping Cimzia:,cimzia_stopping_reason
+Duration of Cimzia use (months):,cimzia_duration
+Tysabri (Natalizumab),tysabri
+Reason for stopping Tysabri:,tysabri_stopping_reason
+Duration of Tysabri use (months):,tysabri_duration
+Reason for stopping:,stopping_reason
+Asacol (mesalamine),asacol
+Reason for stopping Asacol:,asacol_stopping_reason
+Pentasa (mesalamine),pentasa
+Reason for stopping Pentasa:,pentasa_stopping_reason
+Lialda (mesalamine),lialda
+Reason for stopping Lialda:,lialda_stopping_reason
+Apriso (mesalamine),apriso
+Reason for stopping Apriso:,apriso_stopping_reason
+Colozal (balasalizide),colozal
+Reason for stopping Colozal:,colozal_stopping_reason
+Sulfasalizine (Azulfidine),sulfasalazine
+Reason for stopping Sulfasalazine:,sulfasalazine_stopping_reason
+"If other, explain:",other_explain
+Type of surgery:,surgery_type
+Type of surgery:.1,surgery_type_1
+Has subject had an upper or lower endoscopy?,upper_lower_endoscopy
+Has IBD been confirmed by histopathology?,IBD_histopathology_confirmation
+Has subject undergone any GI-related radiology procedures?,GI_radiology_procedures
+Procedure,procedure
+Procedure.1,procedure_1
+Has subject undergone any GI-related surgeries?,GI_surgeries
+Type of surgery:.2,surgery_type_2
+Type of surgery:.3,surgery_type_3
+Type of surgery:.4,surgery_type_4
+Disease_course,disease_course
+2a. Red or sore eyes,red_sore_eyes
+2b. An abscess (collection of puss) in your abdomen (belly),abdominal_abscess
+2c. An abscess on the buttock or around the anus,buttock_abscess
+"2d. A narrowing of the bowel (a ""stricture"")",bowel_stricture
+2e. A fistula (an abdominal connection,abdominal_fistula
+2f. A draining fistula (if you have a fistula to the skin),draining_fistula
+2g. Skin problems,skin_problems
+3a. Fever greater than 100 degrees Fahrenheit,fever_above_100
+3b. Fatigue or lack of energy,fatigue
+3c. Difficulty sleeping,sleep_difficulty
+3d. Nausea,nausea
+3e. Vomiting,vomiting
+3f. Mouth sores,mouth_sores
+3g. Back pain,back_pain
+3h. Night sweats,night_sweats
+3i. Decreased appetite,decreased_appetite
+3j. Weight loss,weight_loss
+"IN THE PAST SIX MONTHS, my disease has been:",disease_status_6_months
+5a. How would you rate your health today with regard to your,health_rating_today_general
+5b. How would you rate your health today with regard to you,health_rating_today_specific
+race,race
+"Has the subject undergone any relevant GI imaging procedures (abdomen, pelvis et",GI_imaging_procedures
+Has the subject been given the C1 kit and asked to collect and submit a sample,C1_kit_sample
+Arthralgias,arthralgias
+Pyoderma gangrenosum.1,pyoderma_gangrenosum_1
+Erythema nodosum.1,erythema_nodosum_1
+Uveitis.1,uveitis_1
+Was SCCAI completed?,SCCAI_completed
+Bowel frequency during the day,bowel_frequency_day
+Bowel frequency during the night,bowel_frequency_night
+Urgency of defecation,defecation_urgency
+Blood in the stool,stool_blood
+General well being over the past 24 hours,well_being_24_hours
+sccai,sccai
+Screening Status,screening_status
+Ileum,ileum
+Right Colon,right_colon
+Transverse Colon,transverse_colon
+Left Colon,left_colon
+Rectum,rectum
+Total,total
+Ileum.1,ileum_1
+Right Colon.1,right_colon_1
+Transverse Colon.1,transverse_colon_1
+Left Colon.1,left_colon_1
+Rectum.1,rectum_1
+Total.1,total_1
+Ileum.2,ileum_2
+Right Colon.2,right_colon_2
+Transverse Colon.2,transverse_colon_2
+Left Colon.2,left_colon_2
+Rectum.2,rectum_2
+Total.2,total_2
+Ileum.3,ileum_3
+Right Colon.3,right_colon_3
+Transverse Colon.3,transverse_colon_3
+Left Colon.3,left_colon_3
+Rectum.3,rectum_3
+Total.3,total_3
+SES-CD Score,ses_cd_score
+Partial Endoscopy.1,partial_endoscopy_1
+sex,sex
+8. Felt relaxed and free of tension,felt_relaxed
+9. Troubled by a feeling of having to go to the bathroom,troubled_by_bathroom_urgency
+10. Felt angry as a result of bowel problem,bowel_problem_anger
+1. Feeling of fatigue,fatigue_feeling
+2. Delay or cancel a social engagement,cancel_social_engagement
+3. Difficulty doing leisure or sports activities,leisure_sports_difficulty
+4. How often during the last 2 weeks have you been troubled by pain in the abdom,abdominal_pain_last_2_weeks
+5. How often during the last two weeks have you felt depressed or discouraged? P,depression_last_2_weeks
+6. Problem with passing large amounts of gas,gas_passing_problem
+7. Problem with weight,weight_problem
+SIBDQ Score,SIBDQ_score
+Specify race,specify_race
+Was stool sample collected?,stool_sample_collected
+Tube A: DNA/RNA,tube_A_DNA_RNA
+Tube A: Metabolomics,tube_A_metabolomics
+Tube A: Storage,tube_A_storage
+Tube A:Viromics,tube_A_viromics
+Tube B:Fecal Calprotectin,tube_B_fecal_calprotectin
+fecalcal,fecalcal
+Tube B:Proteomics,tube_B_proteomics
+Viromics received at Baylor:,viromics_Baylor
+FecalCal received at MGH:,fecalcal_MGH
+Proteomics received at LBNL:,proteomics_LBNL
+Stool Sample ID:  Tube A  (EtOH),stool_sample_id_tube_A
+Sample ID: Tube B (No preservative),sample_id_tube_B
+Tube A and B received at Broad:,tube_AB_received_Broad
+stool_id,stool_id
+smoking status,smoking_status
+Number years smoked,years_smoked
+Age when started smoking,age_started_smoking
+How many cigarettes/cigars/etc. do you smoke per day?,cigarettes_per_day
