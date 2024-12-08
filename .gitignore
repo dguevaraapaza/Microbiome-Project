@@ -4,3 +4,5 @@ fastq_files/
 output/
 dada/
 tree/
+*.qzv
+*.qza
