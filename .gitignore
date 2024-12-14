@@ -1,8 +1,17 @@
 .conda/
 data/
 fastq_files/
+fastq_files_converted/
+classifier/
 output/
 dada/
 tree/
+exported_table/
+otu/
+classifier/
+IBD_metada/
+
+
 *.qzv
 *.qza
+*.tsv 
